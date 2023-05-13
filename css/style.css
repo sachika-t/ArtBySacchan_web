@@ -1,0 +1,47 @@
+div {
+    border-radius: 20px;
+}
+body{
+    width:100%;
+    max-width: 1000px;
+    margin: auto;
+    padding: 20px;
+    background-color: rgb(255, 240, 250);
+}
+
+.header  {
+    background-color: rgb(252, 188, 249);
+    padding:20px;
+    text-align: center;
+    
+}
+.navigation li{
+
+    list-style: none;
+    float: left;
+    width: 23%;
+    margin: auto;
+    text-align: center;
+    background-color: rgb(233, 197, 255);
+    margin :1%;
+    font-size: 100%;
+    border-radius: 20px;
+
+}
+.navigation ul{
+    
+    padding-inline-start: 0px;
+}
+
+.main{
+    clear: both;
+}
+
+.footer{
+    float: right;
+}
+.footer li{
+    list-style: none;
+    display: block;
+
+}
